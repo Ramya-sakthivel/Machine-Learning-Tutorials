@@ -14,3 +14,4 @@ Naive Bayes classifier
 Kmeans clustering
 Choosing Best model
 Hyper parameter tuning
+and outlier detection and treat outliers using percentile,zscore and standard deviation
